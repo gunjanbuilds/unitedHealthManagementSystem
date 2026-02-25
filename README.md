@@ -5,7 +5,7 @@ A responsive hospital dashboard to manage bed availability and appointment queue
 
 ## 🔗 Live Demo
 
-[Click here to view the project](https://gunjan2005-tech.github.io/unitedHealthManagementSystem/)
+[Click here to view the project](https://united-health-management-system.vercel.app/)
 
 ---
 
